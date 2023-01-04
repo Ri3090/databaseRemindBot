@@ -6,6 +6,7 @@ Functional Discord bot for students
 ```
 npm install
 npm install mysql
+npm install discord.js
 ```
 
 を実行して、モジュールをインストールする。
