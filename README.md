@@ -1,6 +1,8 @@
 # databaseRemind.js
 
 ## はじめに
+ローカル環境での動作を前提としているため、mysql、nord.jsのインストールが必要です。
+AWSを使用した常時稼働を検討中です。
 
 ```
 npm install
