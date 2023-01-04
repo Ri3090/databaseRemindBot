@@ -1,5 +1,4 @@
-# FBS.js
-Functional Discord bot for students
+# databaseRemind.js
 
 ## はじめに
 
